@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=givenName\ givenAge
+comment1.target=Person(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getOwnName()
+comment3.params=
+comment3.target=int\ getOwnAge()
+comment4.params=
+comment4.target=int\ getFriendCount()
+comment5.params=
+comment5.target=java.lang.String\ getAllFriendsNames()
+comment6.params=index
+comment6.target=java.lang.String\ get1FriendsName(int)
+comment7.params=givenAge
+comment7.target=void\ setOwnAge(int)
+comment8.params=aFriend
+comment8.target=void\ addFriend(Person)
+comment9.params=
+comment9.target=int\ indexOfLongestName()
+numComments=10

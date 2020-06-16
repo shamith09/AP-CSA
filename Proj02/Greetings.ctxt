@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Greetings
+comment0.text=\r\n\ This\ program\ expects\ two\ command-line\ arguments\r\n\ --\ a\ person's\ first\ name\ and\ last\ name.\r\n\ For\ example\:\r\n\ C\:\\mywork>\ java\ Greetings\ Annabel\ Lee\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

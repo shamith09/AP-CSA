@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rps
+comment1.params=
+comment1.target=Rps()
+comment2.params=computerMove\ playerMove
+comment2.target=int\ nextPlay(char,\ char)
+comment2.text=\r\n\ \ returns\ -1\ if\ the\ player\ wins,\r\n\ \ 0\ if\ it's\ a\ tie,\ and\ 1\ if\ the\ computer\ wins\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=move
+comment4.target=java.lang.String\ makeWord(char)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

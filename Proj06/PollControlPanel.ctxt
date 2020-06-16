@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PollControlPanel
+comment1.params=chart
+comment1.target=PollControlPanel(PollDisplayPanel)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ Processes\ button\ events\r\n
+numComments=3

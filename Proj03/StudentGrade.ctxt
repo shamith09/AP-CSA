@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StudentGrade
+comment0.text=\r\n\ Creates\ a\ new\ student\ with\ a\ starting\ grade\ 0f\ 0/0.\ Users\ can\r\n\ add\ points\ the\ student\ earned\ and\ the\ total\ possible\ points\ they\ \r\n\ could\ have\ gotten.\ It\ can\ also\ subtract\ these\ same\ points\ and\ print\r\n\ the\ student's\ current\ grade\ as\ a\ percent\ out\ of\ 100.\r\n\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 09/21/19\r\n
+comment1.params=name
+comment1.target=StudentGrade(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentGrade\r\n\ @param\ name\ the\ name\ of\ the\ student\r\n
+comment2.params=score\ maxScore
+comment2.target=void\ accumScore(int,\ int)
+comment2.text=\r\n\ Adds\ the\ student's\ score\ to\ his\ total\ score\ and\ the\r\n\ maximum\ score\ of\ that\ assignment\ to\ his\ current\ possible\r\n\ maximum\ score.\r\n\ @param\ score\ the\ student's\ score\ on\ that\ assingment\r\n\ @param\ maxScore\ the\ maximum\ possible\ score\ for\ that\ assignment\r\n
+comment3.params=score\ maxScore
+comment3.target=void\ dropScore(int,\ int)
+comment3.text=\r\n\ Subtracts\ the\ student's\ score\ from\ his\ total\ score\ and\ the\r\n\ maximum\ score\ of\ that\ assignment\ from\ his\ current\ possible\r\n\ maximum\ score.\r\n\ It\ can\ be\ used\ to\ correct\ an\ incorrect\ score\ or\ to\ excuse\ the\ \r\n\ student\ from\ that\ assignment.\r\n\ @param\ score\ the\ student's\ score\ on\ that\ assingment\r\n\ @param\ maxScore\ the\ maximum\ possible\ score\ for\ that\ assignment\r\n
+comment4.params=
+comment4.target=int\ calcGrade()
+comment4.text=\r\n\ Returns\ the\ student's\ current\ grade\ out\ of\ 100\r\n\ @return\ the\ student's\ grade\ in\ percent\ out\ of\ 100%\r\n
+numComments=5

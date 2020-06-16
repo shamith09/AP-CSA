@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circle2
+comment0.text=\r\n\ Users\ can\ get\ the\ area\ or\ circumference\ of\ a\ circle\ after\ inputting\r\n\ its\ radius.\r\n\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 09/21/19\r\n
+comment1.params=circleRadius
+comment1.target=Circle2(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n\ @param\ radius\ the\ radius\ of\ the\ circle\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ Returns\ the\ area\ of\ the\ circle\ based\ on\ the\ radius\ given\ \r\n\ earlier.\r\n\ @return\ the\ area\ of\ the\ circle\r\n
+comment3.params=
+comment3.target=double\ getCircumf()
+comment3.text=\r\n\ Returns\ the\ circumference\ of\ the\ circle\ based\ on\ the\ radius\ \r\n\ given\ earlier.\r\n\ @return\ the\ circumference\ of\ the\ circle\r\n
+numComments=4

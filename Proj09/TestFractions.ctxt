@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TestFractions
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fraction\ here.\r\n\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 11/15/19\r\n
+comment1.params=
+comment1.target=void\ testConstructors()
+comment2.params=
+comment2.target=void\ testArithmetic()
+comment3.params=
+comment3.target=void\ testValues()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

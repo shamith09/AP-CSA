@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ A\ bank\ account\ that\ has\ a\ balance\ that\ can\ be\ changed\ by\ deposits,\ \r\n\ withdrawals,\ and\ simple\ interest.\r\n\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 09/17/19\r\n
+comment1.params=initBal
+comment1.target=BankAccount(double)
+comment1.text=\r\n\ Constructs\ a\ bank\ account\ with\ a\ given\ balance.\ \r\n\ @param\ initBal\ the\ initial\ balance\r\n
+comment2.params=
+comment2.target=BankAccount()
+comment2.text=\r\n\ Constructs\ a\ bank\ account\ with\ zero\ balance.\ \r\n
+comment3.params=amt
+comment3.target=void\ deposit(double)
+comment3.text=\r\n\ Deposits\ the\ specified\ amount\ into\ the\ account.\r\n\ @param\ amt\ the\ amount\ to\ deposit\r\n
+comment4.params=amt
+comment4.target=void\ withdraw(double)
+comment4.text=\r\n\ Withdraws\ the\ specified\ amount\ from\ the\ account.\r\n\ @param\ amt\ the\ amount\ to\ withdraw\r\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\r\n\ Returns\ the\ balance\ in\ the\ account.\r\n\ @return\ the\ current\ balance\r\n
+comment6.params=rate
+comment6.target=void\ addInterest(double)
+comment6.text=\r\n\ Adds\ rate\ interest\ to\ the\ account.\ \r\n\ @param\ rate\ the\ interest\ rate\r\n
+numComments=7

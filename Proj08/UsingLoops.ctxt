@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=UsingLoops
+comment0.text=\r\n\ This\ is\ a\ class\ with\ assorted\ static\ methods\ that\ can\ be\ used\ for\r\n\ various\ purposes.\r\n\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 11/06/19\r\n
+comment1.params=initYear\ initPop\ futurePop\ rate
+comment1.target=int\ popGrowth(int,\ double,\ double,\ double)
+comment1.text=\r\n\ Calculate\ the\ year\ when\ the\ population\ reaches\ a\ certain\ number\r\n\ given\ the\ start\ and\ end\ years,\ percent\ increasem\ and\ and\ future\r\n\ population\ wanted.\r\n\r\n\ @param\ initYear\ the\ initial\ year\r\n\ @param\ initPop\ the\ initial\ population\r\n\ @param\ futurePop\ the\ population\ in\ a\ future\ year\r\n\ @param\ rate\ the\ growth\ rate\ per\ year\r\n\ @return\ the\ year\ when\ the\ population\ reaches\ a\ certain\ number\r\n
+comment2.params=n
+comment2.target=int\ addMultOf3(int)
+comment2.text=\r\n\ Calculates\ the\ sum\ of\ the\ multiples\ of\ 3\ from\ 1\ to\ a\ specified\r\n\ number\r\n\r\n\ @param\ n\ the\ ending\ number,\ inclusive\r\n\ @return\ the\ sum\ of\ the\ multiples\ of\ 3\ from\ 1\ to\ n\r\n
+comment3.params=rowNum1\ count1\ k\ rowNum2
+comment3.target=int\ calcChairs(int,\ int,\ int,\ int)
+comment3.text=\r\n\ Calculates\ the\ number\ of\ chairs\ in\ another\ row\ in\ the\ theater\ given\r\n\ the\ row\ numbers,\ number\ of\ chairs\ increasing\ or\ decreasing\ per\ row,\ \r\n\ and\ the\ number\ of\ chairs\ in\ the\ first\ row\ given.\r\n\ \r\n\ @param\ rowNum1\ the\ row\ number\ of\ the\ given\ row\r\n\ @param\ count1\ the\ number\ of\ chiars\ in\ row1\r\n\ @param\ k\ the\ difference\ in\ charis\ per\ row\r\n\ @param\ rowNum2\ the\ row\ number\ for\ which\ chair\ count\ is\ being\ food\r\n\ @return\ the\ number\ of\ chairs\ in\ the\ wanted\ row\r\n
+comment4.params=rate\ desired
+comment4.target=double\ knowledgGrowth(double,\ double)
+comment4.text=\r\n\ Calculates\ the\ number\ of\ months\ when\ a\ student\ achieves\ certain\ \r\n\ percentage\ of\ the\ knowledge\ from\ studying\ certain\ material.\r\n\r\n\ @param\ rate\ the\ rate\ of\ knowledge\ gained\ in\ one\ month\ in\ decimal\ form\r\n\ @param\ desired\ the\ amount\ of\ knowledge\ wanted\ in\ rate\ form\r\n\ @return\ the\ number\ of\ months\ to\ obtain\ the\ desired\ %\ of\ knowledge\r\n\ material\r\n
+comment5.params=n
+comment5.target=double\ estPi(int)
+comment5.text=\r\n\ Calculates\ the\ value\ of\ pi\ based\ on\ the\ Gregory\ Series\r\n\r\n\ @param\ n\ the\ number\ of\ terms\ to\ estimate\ pi\r\n\ @return\ the\ value\ of\ pi\ based\ on\ 'n'\ iterations\ of\ the\ series\r\n
+comment6.params=n
+comment6.target=void\ starTriangle(int)
+comment6.text=\r\n\ Prints\ a\ triangle\ of\ X's\ with\ the\ first\ row\ having\ 1\ X\ and\ the\ last\r\n\ having\ 2n-1\ X's.\r\n\r\n\ @param\ n\ the\ number\ of\ rows\ in\ the\ triangle\r\n
+comment7.params=n
+comment7.target=void\ identMatrix(int)
+comment7.text=\r\n\ Prints\ an\ identity\ matrix\ with\ n\ rows\ and\ columns\r\n\r\n\ @param\ n\ the\ number\ of\ rows\ and\ columns\ in\ the\ matrix\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MathCalculations
+comment0.text=\r\n\ This\ class\ has\ multiple\ math\ functions\ that\ can\ be\ used\ for\ various\ classes\r\n\ or\ everyday\ life.\r\n\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 10/03/2019\r\n
+comment1.params=celsius
+comment1.target=int\ cToFDeg(int)
+comment1.text=\r\n\ Converts\ temperature\ in\ Celsius\ to\ temeprature\ in\ Farenheit.\r\n\r\n\ @param\ celsius\ integer\ degrees\ in\ celsius\r\n\ @return\ equivalent\ temperature\ in\ farenheit\r\n
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=double\ distanceFormula(double,\ double,\ double,\ double)
+comment2.text=\r\n\ Returns\ the\ distance\ between\ 2\ points\ on\ a\ 2D\ graph\r\n\r\n\ @param\ x1\ the\ x\ value\ of\ the\ first\ point\r\n\ @param\ y1\ the\ y\ value\ of\ the\ first\ point\r\n\ @param\ x2\ the\ x\ value\ of\ the\ second\ point\r\n\ @param\ y2\ the\ y\ value\ of\ the\ second\ point\r\n\ @return\ the\ distance\ between\ the\ two\ points\r\n
+comment3.params=radius
+comment3.target=double\ volOfSphere(double)
+comment3.text=\r\n\ Returns\ the\ volume\ of\ a\ sphere\ after\ being\ given\ its\ radius.\r\n\r\n\ @param\ radius\ the\ radius\ of\ the\ sphere\r\n\ @return\ the\ volume\ of\ the\ sphere\r\n
+comment4.params=n
+comment4.target=double\ approxE(int)
+comment4.text=\r\n\ Returns\ the\ approximate\ value\ of\ e\ given\ a\ value\r\n\r\n\ @param\ n\ the\ number\ to\ used\ to\ calculate\ e\r\n\ @return\ the\ approximate\ value\ of\ e\r\n
+comment5.params=secs
+comment5.target=java.lang.String\ timeConverter(int)
+comment5.text=\r\n\ Returns\ a\ time\ duration\ in\ hours,\ minutes,\ and\ seconds\ when\ given\ just\ seconds\r\n\r\n\ @param\ secs\ the\ number\ of\ seconds\ to\ be\ converted\r\n\ @return\ the\ time\ duration\ in\ hours,\ minutes,\ and\ seconds\r\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EstSqrtTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EstSqrtTester\ here.\r\n\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 11/06/19\r\n
+comment1.params=a
+comment1.target=double\ estSqrt(double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

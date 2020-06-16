@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DocumentIndex
+comment1.params=
+comment1.target=DocumentIndex()
+comment2.params=initCapacity
+comment2.target=DocumentIndex(int)
+comment3.params=word\ num
+comment3.target=void\ addWord(java.lang.String,\ int)
+comment4.params=str\ num
+comment4.target=void\ addAllWords(java.lang.String,\ int)
+comment5.params=word
+comment5.target=int\ foundOrInserted(java.lang.String)
+numComments=6

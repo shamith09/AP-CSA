@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LipogramAnalyzer
+comment0.text=\r\n\ @author\ Bhavya\ Gupta\r\n\ @version\ 12-05-2019\r\n
+comment1.params=txt
+comment1.target=LipogramAnalyzer(java.lang.String)
+comment2.params=c
+comment2.target=java.lang.String\ mark(char)
+comment3.params=c
+comment3.target=java.lang.String\ allWordsWith(char)
+comment4.params=index
+comment4.target=java.lang.String\ getWord(int)
+numComments=5

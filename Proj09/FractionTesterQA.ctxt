@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FractionTesterQA
+comment0.text=\r\n\ FractionTesterQA\ is\ to\ QA\ the\ Fraction\ class\r\n\r\n\ @author\ Anh\ Nguyen\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=void\ testConstructors()
+comment2.params=num1\ denom1\ num2\ denom2\ op
+comment2.target=void\ calc(int,\ int,\ int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

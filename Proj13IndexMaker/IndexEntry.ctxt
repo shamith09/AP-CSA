@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IndexEntry
+comment1.params=word
+comment1.target=IndexEntry(java.lang.String)
+comment2.params=num
+comment2.target=void\ add(int)
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
